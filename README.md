@@ -10,5 +10,5 @@ Feel free to explore my repositories, where you'll find a mix of personal projec
 
 You can reach me out at Yaredaleake@gmail.com.
 
-#CodeIsArt #MusicIsLife #SoftwareEngineering #OpenSource
+#SoftwareEngineering #OpenSource #CodeIsArt #MusicIsLife
 
