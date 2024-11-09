@@ -11,4 +11,4 @@ Feel free to explore my repositories, where you'll find a mix of personal projec
 You can reach me out at Yaredaleake@gmail.com.
 
 #SoftwareEngineering #OpenSource #CodeIsArt #MusicIsLife
-
+![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue)
