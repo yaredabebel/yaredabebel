@@ -1,4 +1,4 @@
-👨‍💻 Software Engineer | 🎵 Music Enthusiast
+👨‍💻 Software Engineer | 🎵 Music Enthusiast | ![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue)
 
 Hello there! 👋 I'm Yared A. leake, a passionate software engineer who crafts code and builds digital solutions. My journey in the world of programming is fueled by curiosity and a relentless desire to create meaningful, efficient, and elegant software.
 
@@ -11,4 +11,4 @@ Feel free to explore my repositories, where you'll find a mix of personal projec
 You can reach me out at Yaredaleake@gmail.com.
 
 #SoftwareEngineering #OpenSource #CodeIsArt #MusicIsLife
-![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue)
+
