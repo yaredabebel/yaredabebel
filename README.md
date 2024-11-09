@@ -1,4 +1,4 @@
-![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-120-blue)
 
 👨‍💻 Software Engineer | 🎵 Music Enthusiast |
 
