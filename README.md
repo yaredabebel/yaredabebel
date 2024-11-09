@@ -1,5 +1,7 @@
-👨‍💻 Software Engineer | 🎵 Music Enthusiast | ![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fimg.shields.io%2Fbadge%2FProfile%2520Views-0-blue)
-)
+![Profile Views](https://img.shields.io/badge/Profile%20Views-0-blue)
+
+👨‍💻 Software Engineer | 🎵 Music Enthusiast |
+
 
 Hello there! 👋 I'm Yared A. leake, a passionate software engineer who crafts code and builds digital solutions. My journey in the world of programming is fueled by curiosity and a relentless desire to create meaningful, efficient, and elegant software.
 
