@@ -1,5 +1,5 @@
 ![Profile Views](https://img.shields.io/badge/Profile%20Views-120-blue)
-
+![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=yaredabebel.yaredabebel)
 👨‍💻 Software Engineer | 🎵 Music Enthusiast |
 
 
