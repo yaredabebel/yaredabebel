@@ -5,7 +5,7 @@
 
 Hello there! 👋 I'm Yared A. leake, a passionate software engineer who crafts code and builds digital solutions. My journey in the world of programming is fueled by curiosity and a relentless desire to create meaningful, efficient, and elegant software.
 
-🚀 I specialize in In Javascript, HTML/CSS, Bootsrap, Java, React and I thrive on tackling complex problems and turning them into elegant solutions. From designing algorithms to building scalable applications, I enjoy every step of the development process.
+🚀 I specialize in In Javascript, Java, NodeJs, HTML/CSS, Bootsrap, React and Python. I thrive on tackling complex problems and turning them into elegant solutions. From designing algorithms to building scalable applications, I enjoy every step of the development process.
 
 When I'm not immersed in the world of code, you can find me lost in the realm of music. 🎶 Whether it's exploring new genres, attending concerts, or even strumming a few chords myself, my love for music is a constant source of inspiration. I believe that the creativity and rhythm in music resonate with the artistry of coding.
 
